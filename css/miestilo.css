@@ -1,0 +1,38 @@
+td, table, th{
+    border: 1px solid black;
+}
+
+td, th{
+    padding: 22px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+table {
+    background-color: bisque;
+    border-spacing: 15px;
+}
+
+div{
+    background-color: rgb(96, 96, 65);
+    width: 360px;
+    height: 360px;
+    padding: 20px;
+}
+
+#Luisa {
+    background-color: brown;
+}
+
+.Jireh {
+color: rgb(206, 195, 215);
+background-color: rgb(61, 60, 60);
+}
+
+#Titulo {
+    background-color: rgb(82, 82, 50);
+}
+
+#Subtitulo {
+    background-color: rgb(192, 164, 131);
+}
